@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayyuce&show_icons=true&locale=en&layout=compact" alt="berkayyuce" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkayyuce&show_icons=true&locale=en" alt="berkayyuce" /></p>
+
+![snake gif](https://github.com/BerkayYuce/BerkayYuce/blob/output/github-contribution-grid-snake.gif)
